@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/bluekeyes/patch2pr"
+	"github.com/pankaj-a/patch2pr"
 )
 
 type RepositoryValue struct {

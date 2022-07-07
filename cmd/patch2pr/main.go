@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"github.com/bluekeyes/go-gitdiff/gitdiff"
-	"github.com/bluekeyes/patch2pr"
 	"github.com/google/go-github/v45/github"
+	"github.com/pankaj-a/patch2pr"
 	"golang.org/x/oauth2"
 )
 

@@ -1,4 +1,4 @@
-module github.com/bluekeyes/patch2pr
+module github.com/pankaj-a/patch2pr
 
 go 1.14
 
